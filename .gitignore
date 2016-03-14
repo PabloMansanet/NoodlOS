@@ -1,0 +1,12 @@
+bin/
+Testing/
+CMakeFiles/
+Tools/
+
+*.a
+*.out
+*.cmake
+*.swp
+*.swo
+
+CMakeCache.txt
